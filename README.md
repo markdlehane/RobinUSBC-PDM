@@ -18,3 +18,6 @@ This module is easy to use on a breadboard, can be integrated directly into a PC
 I designed this board because I have been developing project with ESP32S3 modules. These made a USB data connection immediately available, like many other alternatives, and I wanted to simplify my prototyping and development process through simplification. 
 
 The module is supplied with an [AZ1117I](https://www.diodes.com/assets/Datasheets/AZ1117I.pdf) 3.3v LDO and the 5v is provided directly by the USB-C connection (which uses 2 5k1 1% resistors to negotiate the voltage). There is an LED on the board to indicate that 5v power is connected by this can be disconnected through a solder bridge so that it can be disabled when power must be stricly controlled.
+
+![RobinUSBC-back-PSM](https://github.com/user-attachments/assets/978389b3-af0a-49c9-9569-619b8b65824f)
+![RobinUSBC-Front-PSM](https://github.com/user-attachments/assets/afac19ae-54bd-4899-8d57-5009acf9e8ce)
