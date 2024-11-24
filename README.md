@@ -3,6 +3,8 @@
 ## An adaptor that allows connection from a usb power supply or laptop.
 ![RDSPB5331A-Circuit](https://github.com/user-attachments/assets/c7a8725b-e847-4654-b0ec-d02837d4746d)
 
+It's available as a kit or a premade module on ![Tindie](https://www.tindie.com/products/36667/).
+
 This adaptor provides 5v & 3.3v @1A from a USB-C connector. It also provides USB D+ and D- pins so that it can be used with a laptop or computer to provide power and data. I developed this board with the assistance of the wonderful people at [PCBWay](https://www.pcbway.com/) who enabled me to take my early design and turn it into a module that I use in every project I make now.  It's a huge time saver and makes the process of connecting my development boards to a laptop, very simple.
 
 ## Why did you make it?
